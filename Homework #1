@@ -1,0 +1,19 @@
+ericanieves@Ericas-MacBook-Air ~ % https://github.com/FLIP-National/flip-national-website.git
+zsh: no such file or directory: https://github.com/FLIP-National/flip-national-website.git
+ericanieves@Ericas-MacBook-Air ~ % git clone <repo_url>
+zsh: parse error near `\n'
+ericanieves@Ericas-MacBook-Air ~ % git branch
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+ericanieves@Ericas-MacBook-Air ~ % 
+ericanieves@Ericas-MacBook-Air ~ % npm start
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /Users/ericanieves/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/Users/ericanieves/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/ericanieves/.npm/_logs/2021-06-26T06_26_51_958Z-debug.log
+ericanieves@Ericas-MacBook-Air ~ % localhost:3000 
